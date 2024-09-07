@@ -1,0 +1,3 @@
+maingui.py - This is the file which has to be run. This prompts the console, where we can type the artist name, and click detect emotion. Camera will turn on and capture your emotion. You can submit the emotion. Then based on your emotion and artist, spotify songs will be collected and displayed in separate page.You can play those songs.
+maingui.py needs other 3 files to imported- emodetection.py,spotiplaycreator.py,musiclassify.py
+Best_emotion.ipynb file is the jupyter notebook file where the emotion recognition model is trained.
